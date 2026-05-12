@@ -1,19 +1,17 @@
 # My 3D Horror Game
 
-Unity-based 3D horror game prototype.
+## 프로젝트 개요
 
-## Overview
+Unity 기반 3D 공포 게임 프로토타입입니다. 1인칭 탐험, 공포 분위기 연출, 씬 흐름, 기본 상호작용 시스템을 구현하고 실험하는 데 초점을 둔 프로젝트입니다.
 
-This project focuses on first-person exploration, atmosphere, level flow, and basic gameplay systems for a horror game prototype.
+## 주요 구현 방향
 
-## Focus Areas
+- 1인칭 플레이어 컨트롤러
+- 씬과 레벨 구성
+- 공포 분위기 연출과 상호작용 타이밍
+- Unity 기반 게임 플레이 프로토타이핑
 
-- First-person player controller
-- Scene and level design
-- Horror atmosphere and interaction pacing
-- Unity gameplay prototyping
+## 저장소 관리 기준
 
-## Repository Notes
-
-- Unity-generated folders, IDE metadata, build output, and local binaries are ignored.
-- Commit project source and assets, not generated `.sln`, `.csproj`, `Library/`, or build artifacts.
+- Unity 생성 폴더, IDE 메타데이터, 빌드 결과물, 로컬 바이너리는 Git에 추적하지 않습니다.
+- `.sln`, `.csproj`, `Library/`, 빌드 산출물 대신 프로젝트 소스와 에셋 중심으로 커밋합니다.
