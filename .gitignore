@@ -1,0 +1,33 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Generated IDE/project files
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Build output / local binaries
+*.exe
+*.dll
+*.pdb
+*.apk
+*.app
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
